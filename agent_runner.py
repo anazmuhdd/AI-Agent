@@ -3,7 +3,7 @@ from langchain.prompts import PromptTemplate
 from geminillm import GeminiLLM
 from agent_config import tools
 
-llm = GeminiLLM(api_key="your-gemini-api-key")
+llm = GeminiLLM(api_key="")
 
 with open("prompt_template.txt", "r") as f:
     template = f.read()
