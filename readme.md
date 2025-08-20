@@ -1,8 +1,8 @@
-# Smart WhatsApp Assistant Agent for Meeting Handling & Scheduling
+# Smart AI Agent for Meeting Handling & Scheduling, Mail Functions
 
 ## 🧠 Overview
 
-This project showcases a **Smart AI-powered WhatsApp Assistant Agent** designed to automate WhatsApp message processing, meeting scheduling, and contextual chat handling using an LLM integrated through LangChain. The assistant simulates a real-time personal assistant experience with memory, task delegation, and natural conversation abilities.
+This project showcases a **Smart AI-powered WhatsApp and Mail Assistant Agent** designed to automate WhatsApp message processing, meeting scheduling, and contextual chat handling using an LLM integrated through LangChain. The assistant simulates a real-time personal assistant experience with memory, task delegation, and natural conversation abilities.
 
 It is built with **Flask**, **LangChain**, **Gemini LLM**, and **mocked Gmail/Google Calendar APIs**, showcasing how generative agents can streamline human-task interactions in daily workflows.
 
